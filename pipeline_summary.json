@@ -1,6 +1,18 @@
 [
   {
     "serial": 1,
+    "title": "Apocalypse Now",
+    "tmdb_id": 28,
+    "imdb_id": "tt0078788",
+    "extracted_at": "2026-06-18T22:24:27Z",
+    "host-1": "vidmoly.biz", "url-1": "https://vidmoly.biz/embed-iyiaa6hqxf1g.html",
+    "host-2": "vidnest.io", "url-2": "https://vidnest.io/e/jfj15e2kjo51",
+    "host-3": "vidnest.io", "url-3": "https://vidnest.io/e/jfj15e2kjo51",
+    "host-4": "mixdrop.ag", "url-4": "https://mixdrop.ag/e/xop8rnkdu6rlzj",
+    "host-5": "vidnest.io", "url-5": "https://vidnest.io/e/jfj15e2kjo51"
+  },
+  {
+    "serial": 2,
     "title": "The Terminator",
     "tmdb_id": 218,
     "imdb_id": "tt0088247",
@@ -16,7 +28,36 @@
     "host-9": "vidnest.io", "url-9": "https://vidnest.io/e/gd8ri6a1li7n"
   },
   {
-    "serial": 2,
+    "serial": 3,
+    "title": "The Godfather",
+    "tmdb_id": 238,
+    "imdb_id": "tt0068646",
+    "extracted_at": "2026-06-18T22:24:27Z",
+    "host-1": "vidnest.io", "url-1": "https://vidnest.io/e/r8u8dsznmk00",
+    "host-2": "vidnest.io", "url-2": "https://vidnest.io/e/r8u8dsznmk00",
+    "host-3": "voe.sx", "url-3": "https://voe.sx/e/mbei2vihcmol",
+    "host-4": "voe.sx", "url-4": "https://voe.sx/e/eq5qgohuki6h",
+    "host-5": "voe.sx", "url-5": "https://voe.sx/e/eq5qgohuki6h",
+    "host-6": "voe.sx", "url-6": "https://voe.sx/e/eq5qgohuki6h",
+    "host-7": "voe.sx", "url-7": "https://voe.sx/e/eq5qgohuki6h",
+    "host-8": "streamwish.to", "url-8": "https://streamwish.to/e/0a0xrdzc8m93",
+    "host-9": "streamplay.to", "url-9": "https://streamplay.to/embed-a5463lrjoe14.html",
+    "host-10": "vidmoly.biz", "url-10": "https://vidmoly.biz/embed-0pzu1je70okd.html",
+    "host-11": "vidmoly.biz", "url-11": "https://vidmoly.biz/embed-0pzu1je70okd.html",
+    "host-12": "vidmoly.biz", "url-12": "https://vidmoly.biz/embed-0pzu1je70okd.html",
+    "host-13": "vidmoly.biz", "url-13": "https://vidmoly.biz/embed-0pzu1je70okd.html",
+    "host-14": "luluvdoo.com", "url-14": "https://luluvdoo.com/e/00m5pt6ac3jo"
+  },
+  {
+    "serial": 4,
+    "title": "The Godfather Part II",
+    "tmdb_id": 240,
+    "imdb_id": "tt0071562",
+    "extracted_at": "2026-06-18T22:24:27Z",
+    "host-1": "streamta.site", "url-1": "https://streamta.site/e/DlY29oOYo1ckaeb/The.Godfather.Part.II.1974.The.Coppola.Restoration.1080p.BluRay.x264.mp4"
+  },
+  {
+    "serial": 5,
     "title": "King Kong",
     "tmdb_id": 254,
     "imdb_id": "tt0360717",
@@ -43,7 +84,24 @@
     "host-20": "vidnest.io", "url-20": "https://vidnest.io/e/f0m27daz5nx6"
   },
   {
-    "serial": 3,
+    "serial": 6,
+    "title": "The Shawshank Redemption",
+    "tmdb_id": 278,
+    "imdb_id": "tt0111161",
+    "extracted_at": "2026-06-18T22:24:27Z",
+    "host-1": "vidnest.io", "url-1": "https://vidnest.io/e/jfj15e2kjo51",
+    "host-2": "dood.watch", "url-2": "https://dood.watch/e/4yj6efhmbwre",
+    "host-3": "dood.watch", "url-3": "https://dood.watch/e/s5qv0jjnuryy",
+    "host-4": "dood.watch", "url-4": "https://dood.watch/e/s5qv0jjnuryy",
+    "host-5": "filelions.to", "url-5": "https://filelions.to/v/2jt48h3yy8jt",
+    "host-6": "dood.watch", "url-6": "https://dood.watch/e/s5qv0jjnuryy",
+    "host-7": "dood.watch", "url-7": "https://dood.watch/e/s5qv0jjnuryy",
+    "host-8": "mixdrop.ag", "url-8": "https://mixdrop.ag/e/gjo93e4midzr7j",
+    "host-9": "vidnest.io", "url-9": "https://vidnest.io/e/r8u8dsznmk00",
+    "host-10": "vidnest.io", "url-10": "https://vidnest.io/e/r8u8dsznmk00"
+  },
+  {
+    "serial": 7,
     "title": "Terminator 2: Judgment Day",
     "tmdb_id": 280,
     "imdb_id": "tt0103064",
@@ -88,7 +146,7 @@
     "host-38": "voe.sx", "url-38": "https://voe.sx/e/9kmnv1ouzdww"
   },
   {
-    "serial": 4,
+    "serial": 8,
     "title": "Avatar",
     "tmdb_id": 19995,
     "imdb_id": "tt0499549",
@@ -111,7 +169,7 @@
     "host-16": "vidnest.io", "url-16": "https://vidnest.io/e/yr2sw45qgyyp"
   },
   {
-    "serial": 5,
+    "serial": 9,
     "title": "Undercover",
     "tmdb_id": 45050,
     "imdb_id": "tt0114786",
@@ -121,7 +179,7 @@
     "host-3": "streamta.site", "url-3": "https://streamta.site/e/JvoX7Ya1YOSjBgD"
   },
   {
-    "serial": 6,
+    "serial": 10,
     "title": "Royal Warriors",
     "tmdb_id": 45450,
     "imdb_id": "tt0091229",
@@ -129,7 +187,7 @@
     "host-1": "mixdrop.ag", "url-1": "https://mixdrop.ag/e/l7njwoddhqqw7m"
   },
   {
-    "serial": 7,
+    "serial": 11,
     "title": "Swapped",
     "tmdb_id": 1007757,
     "imdb_id": "tt29552248",
