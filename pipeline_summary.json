@@ -1237,6 +1237,19 @@
   },
   {
     "serial": 45,
+    "title": "Mad Max: Fury Road",
+    "tmdb_id": 76341,
+    "imdb_id": "tt1392190",
+    "extracted_at": "2026-06-19T14:31:45Z",
+    "host-1": "bysejikuar.com", "url-1": "https://bysejikuar.com/e/9onfr2epk3aj/mad-max-fury-road-2015-multi-fr2-1080p-hdlight-x265-hevc-ght",
+    "host-2": "dood.watch", "url-2": "https://dood.watch/e/ij0zuzzvplla",
+    "host-3": "filelions.to", "url-3": "https://filelions.to/v/7mo7by06mxxx",
+    "host-4": "filelions.to", "url-4": "https://filelions.to/v/wm4x92mytcsa",
+    "host-5": "luluvdoo.com", "url-5": "https://luluvdoo.com/e/7d22wlk04ucd",
+    "host-6": "vidnest.io", "url-6": "https://vidnest.io/e/utktxqrj5smj"
+  },
+  {
+    "serial": 46,
     "title": "Interstellar",
     "tmdb_id": 157336,
     "imdb_id": "tt0816692",
@@ -1268,7 +1281,7 @@
     "host-25": "bysejikuar.com", "url-25": "https://bysejikuar.com/e/bwpfz8izkc7z/interstellar-2014-2014-1080p-bluray-yify"
   },
   {
-    "serial": 46,
+    "serial": 47,
     "title": "Lucy",
     "tmdb_id": 240832,
     "imdb_id": "tt2872732",
@@ -1298,7 +1311,7 @@
     "host-23": "mixdrop.ag", "url-23": "https://mixdrop.ag/e/r60p6zoqsw11n1"
   },
   {
-    "serial": 47,
+    "serial": 48,
     "title": "Whiplash",
     "tmdb_id": 244786,
     "imdb_id": "tt2582802",
@@ -1310,7 +1323,7 @@
     "host-5": "vidnest.io", "url-5": "https://vidnest.io/e/gdziqesr6j5t"
   },
   {
-    "serial": 48,
+    "serial": 49,
     "title": "Your Name.",
     "tmdb_id": 372058,
     "imdb_id": "tt5311514",
@@ -1327,7 +1340,7 @@
     "host-10": "voe.sx", "url-10": "https://voe.sx/e/vhlq462okt6h"
   },
   {
-    "serial": 49,
+    "serial": 50,
     "title": "Bohemian Rhapsody",
     "tmdb_id": 424694,
     "imdb_id": "tt1727824",
@@ -1357,7 +1370,7 @@
     "host-23": "streamta.site", "url-23": "https://streamta.site/e/zkgp2BLMoMFYMZP"
   },
   {
-    "serial": 50,
+    "serial": 51,
     "title": "The Bad Guys",
     "tmdb_id": 629542,
     "imdb_id": "tt8115900",
@@ -1376,7 +1389,7 @@
     "host-12": "filelions.to", "url-12": "https://filelions.to/v/7dv3b237z0bb"
   },
   {
-    "serial": 51,
+    "serial": 52,
     "title": "Swapped",
     "tmdb_id": 1007757,
     "imdb_id": "tt29552248",
