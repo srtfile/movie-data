@@ -1143,6 +1143,17 @@
   },
   {
     "serial": 38,
+    "title": "Vicky Cristina Barcelona",
+    "tmdb_id": 5038,
+    "imdb_id": "tt0497465",
+    "extracted_at": "2026-06-19T13:54:31Z",
+    "host-1": "streamta.site", "url-1": "https://streamta.site/e/q9qMOdreO4cze0O",
+    "host-2": "bysejikuar.com", "url-2": "https://bysejikuar.com/e/5ugcyw2cov22",
+    "host-3": "vidmoly.biz", "url-3": "https://vidmoly.biz/embed-75mnocys9ndc.html",
+    "host-4": "www.youtube.com", "url-4": "https://www.youtube.com/embed/ap90u0whSbM"
+  },
+  {
+    "serial": 39,
     "title": "The Fugitive",
     "tmdb_id": 5503,
     "imdb_id": "tt0106977",
@@ -1161,7 +1172,7 @@
     "host-12": "vidnest.io", "url-12": "https://vidnest.io/e/be3jxgmnskl8"
   },
   {
-    "serial": 39,
+    "serial": 40,
     "title": "Weekend",
     "tmdb_id": 8075,
     "imdb_id": "tt0062480",
@@ -1170,7 +1181,7 @@
     "host-2": "luluvdoo.com", "url-2": "https://luluvdoo.com/e/5a46ggg82ud9"
   },
   {
-    "serial": 40,
+    "serial": 41,
     "title": "Cinema Paradiso",
     "tmdb_id": 11216,
     "imdb_id": "tt0095765",
@@ -1183,7 +1194,7 @@
     "host-6": "dood.watch", "url-6": "https://dood.watch/e/9vf76zt7sxw0"
   },
   {
-    "serial": 41,
+    "serial": 42,
     "title": "Avatar",
     "tmdb_id": 19995,
     "imdb_id": "tt0499549",
@@ -1206,7 +1217,7 @@
     "host-16": "vidnest.io", "url-16": "https://vidnest.io/e/yr2sw45qgyyp"
   },
   {
-    "serial": 42,
+    "serial": 43,
     "title": "Undercover",
     "tmdb_id": 45050,
     "imdb_id": "tt0114786",
@@ -1214,7 +1225,7 @@
     "host-1": "dood.watch", "url-1": "https://dood.watch/e/4u3pcctig4is"
   },
   {
-    "serial": 43,
+    "serial": 44,
     "title": "Royal Warriors",
     "tmdb_id": 45450,
     "imdb_id": "tt0091229",
@@ -1222,7 +1233,7 @@
     "host-1": "mixdrop.ag", "url-1": "https://mixdrop.ag/e/l7njwoddhqqw7m"
   },
   {
-    "serial": 44,
+    "serial": 45,
     "title": "Interstellar",
     "tmdb_id": 157336,
     "imdb_id": "tt0816692",
@@ -1254,7 +1265,7 @@
     "host-25": "bysejikuar.com", "url-25": "https://bysejikuar.com/e/bwpfz8izkc7z/interstellar-2014-2014-1080p-bluray-yify"
   },
   {
-    "serial": 45,
+    "serial": 46,
     "title": "Lucy",
     "tmdb_id": 240832,
     "imdb_id": "tt2872732",
@@ -1284,7 +1295,7 @@
     "host-23": "mixdrop.ag", "url-23": "https://mixdrop.ag/e/r60p6zoqsw11n1"
   },
   {
-    "serial": 46,
+    "serial": 47,
     "title": "Whiplash",
     "tmdb_id": 244786,
     "imdb_id": "tt2582802",
@@ -1296,7 +1307,7 @@
     "host-5": "vidnest.io", "url-5": "https://vidnest.io/e/gdziqesr6j5t"
   },
   {
-    "serial": 47,
+    "serial": 48,
     "title": "Your Name.",
     "tmdb_id": 372058,
     "imdb_id": "tt5311514",
@@ -1313,7 +1324,7 @@
     "host-10": "voe.sx", "url-10": "https://voe.sx/e/vhlq462okt6h"
   },
   {
-    "serial": 48,
+    "serial": 49,
     "title": "Bohemian Rhapsody",
     "tmdb_id": 424694,
     "imdb_id": "tt1727824",
@@ -1343,7 +1354,7 @@
     "host-23": "streamta.site", "url-23": "https://streamta.site/e/zkgp2BLMoMFYMZP"
   },
   {
-    "serial": 49,
+    "serial": 50,
     "title": "The Bad Guys",
     "tmdb_id": 629542,
     "imdb_id": "tt8115900",
@@ -1362,7 +1373,7 @@
     "host-12": "filelions.to", "url-12": "https://filelions.to/v/7dv3b237z0bb"
   },
   {
-    "serial": 50,
+    "serial": 51,
     "title": "Swapped",
     "tmdb_id": 1007757,
     "imdb_id": "tt29552248",
